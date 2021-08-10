@@ -1,0 +1,5 @@
+PFA the link to the apk build.
+I have tried to mimic the app as best as I could with the limited time I had. I did however add my own twist to it. The original game has multiple levels, which would be difficult to create within a few days. So I decided to create an infinite level procedurally. I added 3 different types of obstacles to an array, and I keep spawning one at random at a predetermined distance and have a random rotational value. The overall objective of the game is to beat your high score. These random obstacles are only spawned once you clear the obstacle directly in front of you, by doing so I have also tried to limit my game's RAM usage.
+
+
+GIven more time I would certainly perfect this procedural generation more, I would add a lot more of these obstacles for a truly random level generation. I would also fine-tune the physics which right now can make a few levels unplayable.
